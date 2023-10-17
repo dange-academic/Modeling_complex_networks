@@ -20,4 +20,4 @@ https://github.com/dange-academic/networkx_example_code
 
 ## 2023春季新版课程：
 [复杂网络建模：基于Python的实现](https://www.bilibili.com/video/BV1GM4y1Q76f/?vd_source=519dd7a4b1f4260ebe31140657f52698)（点击可跳转课程界面）。
-<img src="2023" width="80%">
+<img src="2023.png" width="80%">
